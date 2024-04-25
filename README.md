@@ -52,7 +52,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
    - National Communication (NC). NC 2., 2015: https://unfccc.int/documents/109628    
 
 - Adaptation
-   
+  - Kenya National Adaptation Plan 2015-2030 https://www4.unfccc.int/sites/NAPC/Documents%20NAP/Kenya_NAP_Final.pdf 
 
 - Energy policy 
     
@@ -72,7 +72,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 -
 
-### Gender an Equality <a name="gender"></a>
+### Gender and Equality <a name="gender"></a>
 
 -
 
@@ -100,7 +100,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - Transport in Kenya’s Nationally Determined Contribution - A factsheet giving a quick overview of transport and climate change in Kenya, GIZ, 2021: https://changing-transport.org/publications/transport-in-kenyas-nationally-determined-contribution/
   - Greenhouse Gas Emissions From the Transport Sector: Mitigation Options for Kenya, GIZ, 2018: https://changing-transport.org/publications/ghg-mitigation-options-for-kenya/
   - Institutional Readiness Towards an Enhanced Transparency Framework for Climate Change Reporting, GIZ, 2020: https://changing-transport.org/publications/institutional-readiness/
-  - 
+  - Road Transport GHG Emission Factors for Kenya, GIZ, 2018: https://changing-transport.org/publications/road-transport-ghg-emission-factors-kenya/
   
 - Urban Transport:
   - Kenya: National urban transport improvement project - Implementation completion and results report, World Bank, 2019: https://documents1.worldbank.org/curated/en/702181563299068935/pdf/Kenya-National-Urban-Transport-Improvement-Project.pdf
@@ -118,7 +118,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
--
+- Transport in Nationally Determined Contributions (NDCs): https://changing-transport.org/publications/transport-nationally-determined-contributions/
+- Advancing Transport Climate Strategies (TraCS): https://changing-transport.org/publications/from-ambition-to-action/
 
 ### Data <a name="data"></a>
 
