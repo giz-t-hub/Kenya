@@ -79,6 +79,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
+- General: 
+
+- Urban Transport:
+  - Kenya: National urban transport improvement project - Implementation completion and results report, World Bank, 2019: https://documents1.worldbank.org/curated/en/702181563299068935/pdf/Kenya-National-Urban-Transport-Improvement-Project.pdf
 
 
 - Digitalisation:
