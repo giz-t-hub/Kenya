@@ -132,7 +132,9 @@ Disclaimer: Findings, interpretations and conclusions expressed in this document
 
 
 Contributors:
--
+
+- Herman Kwoba
+- Paulina Schulte-Vels
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
