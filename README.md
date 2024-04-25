@@ -28,9 +28,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
-
+  - Updated Integrated National Transport Policy, Ministry of Roads and Transport Kenya, 2024: https://transport.go.ke/sites/default/files/INTP%20REVIEWED%20MARCH%202024%20SESA.pdf
+  
 - General
-
+ - Kenya Vision 2030: https://vision2030.go.ke/
+ - 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
