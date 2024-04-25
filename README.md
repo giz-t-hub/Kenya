@@ -103,6 +103,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Urban Transport:
   - Kenya: National urban transport improvement project - Implementation completion and results report, World Bank, 2019: https://documents1.worldbank.org/curated/en/702181563299068935/pdf/Kenya-National-Urban-Transport-Improvement-Project.pdf
 
+- Electric mobility:
+  - Electric Mobility in Kenya: Charging Infrastructure, GIZ, 2021: https://changing-transport.org/publications/electric-mobility-in-kenya-charging-infrastructure/
+  - Electric Mobility in Kenya: Facts, GIZ, 2020: https://changing-transport.org/publications/electric-mobility-in-kenya/
+  - 
+
 - Digitalisation:
   - Digitalisation in Kenya’s Road transport sector, GIZ, 2020 https://changing-transport.org/publications/digitalisation-kenya-road-transport/
 
