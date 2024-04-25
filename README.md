@@ -39,18 +39,22 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Roads:
     
 - Inland waterways, ports:
+  
 - Aviation:
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-    
+   - Kenya First NDC (Updated submission), 2020: https://unfccc.int/documents/497612
+   - National Communication (NC). NC 2., 2015: https://unfccc.int/documents/109628    
+
 - Adaptation
    
 
 - Energy policy 
     
 ### Urban and regional development <a name="urban"></a> 
+
 
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
@@ -75,7 +79,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
--
+
+
+- Digitalisation:
+  - Digitalisation in Kenya’s Road transport sector, GIZ, 2020 https://changing-transport.org/publications/digitalisation-kenya-road-transport/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
