@@ -99,6 +99,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - Conditions and Barriers for Vehicle Efficiency Regulations in Kenya, GIZ, 2023: https://changing-transport.org/publications/conditions-and-barriers-for-vehicle-efficiency-regulations-in-kenya/
   - Transport in Kenya’s Nationally Determined Contribution - A factsheet giving a quick overview of transport and climate change in Kenya, GIZ, 2021: https://changing-transport.org/publications/transport-in-kenyas-nationally-determined-contribution/
   - Greenhouse Gas Emissions From the Transport Sector: Mitigation Options for Kenya, GIZ, 2018: https://changing-transport.org/publications/ghg-mitigation-options-for-kenya/
+  - Institutional Readiness Towards an Enhanced Transparency Framework for Climate Change Reporting, GIZ, 2020: https://changing-transport.org/publications/institutional-readiness/
+  - 
   
 - Urban Transport:
   - Kenya: National urban transport improvement project - Implementation completion and results report, World Bank, 2019: https://documents1.worldbank.org/curated/en/702181563299068935/pdf/Kenya-National-Urban-Transport-Improvement-Project.pdf
@@ -106,6 +108,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Electric mobility:
   - Electric Mobility in Kenya: Charging Infrastructure, GIZ, 2021: https://changing-transport.org/publications/electric-mobility-in-kenya-charging-infrastructure/
   - Electric Mobility in Kenya: Facts, GIZ, 2020: https://changing-transport.org/publications/electric-mobility-in-kenya/
+  - Electric vehicle standards in Kenya, GIZ, 2020: https://changing-transport.org/publications/electric-vehicle-standards/
+  - Assessment of Electric Vehicle Classification in Kenya - Proposals for electric vehicle registration in Kenya, GIZ, 2020: https://changing-transport.org/publications/assessment-electric-vehicle-classification/
+  - Importation and taxation of electric vehicles in Kenya, GIZ, 2020: https://changing-transport.org/publications/importation-and-taxation-of-electric-vehicles-in-kenya/
   - 
 
 - Digitalisation:
