@@ -85,10 +85,21 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Studies and research papers <a name="studies-research"></a> 
 
 - General: 
+  - Key Performance indicators for road subsector in Kenya, 2024: https://www.linkedin.com/posts/herman-kwoba-92421351_key-performance-indicators-of-the-road-subsector-activity-7177966207034138624-Begl/?utm_source=share&utm_medium=member_desktop
+  - Characteristics of the In-service Vehicle Fleet in Kenya, GIZ, 2019: https://changing-transport.org/publications/characteristics-in-service-vehicle-fleet-kenya/
+  - Electric Mobility in Kenya: Charging Infrastructure, GIZ, 2021: https://changing-transport.org/publications/electric-mobility-in-kenya-charging-infrastructure/
+  - The study on master plan for urban transport in the Nairobi Metropolitan Area in the Republic of Kenya final report, JICA, March 2006: https://openjicareport.jica.go.jp/pdf/11823085_01.pdf
+  - Electric Mobility in Kenya: Facts, GIZ, 2020: https://changing-transport.org/publications/electric-mobility-in-kenya/
+  - 
 
+- Climate:
+  - Kenya’s Transport Sector Climate Change Annual Report (2019/2020), Climate Change Unit (State Department of Transport), 2021: https://changing-transport.org/publications/kenyas-transport-sector-climate-change-report-2019-2020/
+  - Kenya’s Transport Sector Climate Change Annual Report (2018/2019), Climate Change Unit (State Department of Transport), 2019: https://changing-transport.org/publications/kenya-transport-sector-climate-change-annual-report/
+  - Lessons Learnt During 4 years of Advancing Climate Strategies in Kenya, GIZ, 2021: https://changing-transport.org/publications/lessons-learnt-during-4-years-of-advancing-climate-strategies-in-kenya/
+  - Conditions and Barriers for Vehicle Efficiency Regulations in Kenya, GIZ, 2023: https://changing-transport.org/publications/conditions-and-barriers-for-vehicle-efficiency-regulations-in-kenya/
+  
 - Urban Transport:
   - Kenya: National urban transport improvement project - Implementation completion and results report, World Bank, 2019: https://documents1.worldbank.org/curated/en/702181563299068935/pdf/Kenya-National-Urban-Transport-Improvement-Project.pdf
-
 
 - Digitalisation:
   - Digitalisation in Kenya’s Road transport sector, GIZ, 2020 https://changing-transport.org/publications/digitalisation-kenya-road-transport/
