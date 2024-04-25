@@ -29,6 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Transport
   - Updated Integrated National Transport Policy, Ministry of Roads and Transport Kenya, 2024: https://transport.go.ke/sites/default/files/INTP%20REVIEWED%20MARCH%202024%20SESA.pdf
+  - Draft Strategic Plan 2023-2027, Ministry of Roads and Transport, https://www.transport.go.ke/sites/default/files/DRAFT%20FINAL%20MINISTERIAL%20STRATEGIC%20PLAN%202023-27%20FEB%202024%20.pdf
   
 - General
   - Kenya Vision 2030: https://vision2030.go.ke/
@@ -77,7 +78,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
--
+- Nairobi:
+  - Nairobi Metropolitan Area Transport Authority Strategic Plan 2019-2023 (Zero draft), https://www.namata.go.ke/documents/Draft%20NaMATA%20Strategic%20Plan.pdf
+  - Non motorized transport policy, Nairobi City County Government, 2015: https://wedocs.unep.org/bitstream/handle/20.500.11822/25413/NairobiCity_%20NonMotorizedTransportPolicy.pdf?sequence=1&isAllowed=y
 
 ### Studies and research papers <a name="studies-research"></a> 
 
