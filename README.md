@@ -97,6 +97,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - Kenya’s Transport Sector Climate Change Annual Report (2018/2019), Climate Change Unit (State Department of Transport), 2019: https://changing-transport.org/publications/kenya-transport-sector-climate-change-annual-report/
   - Lessons Learnt During 4 years of Advancing Climate Strategies in Kenya, GIZ, 2021: https://changing-transport.org/publications/lessons-learnt-during-4-years-of-advancing-climate-strategies-in-kenya/
   - Conditions and Barriers for Vehicle Efficiency Regulations in Kenya, GIZ, 2023: https://changing-transport.org/publications/conditions-and-barriers-for-vehicle-efficiency-regulations-in-kenya/
+  - Transport in Kenya’s Nationally Determined Contribution - A factsheet giving a quick overview of transport and climate change in Kenya, GIZ, 2021: https://changing-transport.org/publications/transport-in-kenyas-nationally-determined-contribution/
+  - Greenhouse Gas Emissions From the Transport Sector: Mitigation Options for Kenya, GIZ, 2018: https://changing-transport.org/publications/ghg-mitigation-options-for-kenya/
   
 - Urban Transport:
   - Kenya: National urban transport improvement project - Implementation completion and results report, World Bank, 2019: https://documents1.worldbank.org/curated/en/702181563299068935/pdf/Kenya-National-Urban-Transport-Improvement-Project.pdf
