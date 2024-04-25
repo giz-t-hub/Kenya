@@ -74,7 +74,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Gender and Equality <a name="gender"></a>
 
--
+- National policy on gender and development, 2019: https://psyg.go.ke/wp-content/uploads/2019/12/NATIONAL-POLICY-ON-GENDER-AND-DEVELOPMENT.pdf 
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
