@@ -81,6 +81,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Nairobi:
   - Nairobi Metropolitan Area Transport Authority Strategic Plan 2019-2023 (Zero draft), https://www.namata.go.ke/documents/Draft%20NaMATA%20Strategic%20Plan.pdf
   - Non motorized transport policy, Nairobi City County Government, 2015: https://wedocs.unep.org/bitstream/handle/20.500.11822/25413/NairobiCity_%20NonMotorizedTransportPolicy.pdf?sequence=1&isAllowed=y
+  - Various NAMATA studies (e.g. BRT): https://www.namata.go.ke/publications
 
 ### Studies and research papers <a name="studies-research"></a> 
 
